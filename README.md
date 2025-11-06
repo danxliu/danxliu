@@ -1,11 +1,4 @@
-##
-
-<p align="center"><samp>Hello! I'm Daniel.<samp> <img src="https://github.com/UntrustedAccount/UntrustedAccount/blob/main/assets/wave.gif?raw=true" width="18px"></p>
-
-##
-
-<p align="center"><samp>I am studying Computer Science and Data Science at the University of California, Berkeley.<br>
-You can find some of my personal projects here.<br>
+<p align="center"><samp>Studying Computer Science and Data Science at the University of California, Berkeley.<br>
 School projects are private; employers can request access at <a href="mailto:danielliu@berkeley.edu">danielliu@berkeley.edu</a>.</samp></p>
 
 <p align="center">
