@@ -4,7 +4,7 @@ School projects are private; employers can request access at <a href="mailto:dan
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-liu-2004/"><samp>LinkedIn</samp></a>
   ∙
-  <a href="https://dliu.is-a.dev"><samp>Website</samp></a>
+  <a href="https://danxliu.com"><samp>Website</samp></a>
   ∙
   <a href="mailto:danielliu@berkeley.edu"><samp>Email</samp></a>
 </p>
