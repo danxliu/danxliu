@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/top0_dark.png">
 </p>
-<p align="center"><samp>Studying Computer Science and Data Science at the University of California, Berkeley.<br>
+<p align="center"><samp>B.A. in Computer Science from UC Berkeley 2026.<br>
 School projects are private; employers can request access at <a href="mailto:danielliu@berkeley.edu">danielliu@berkeley.edu</a>.</samp></p>
 
 <p align="center">
